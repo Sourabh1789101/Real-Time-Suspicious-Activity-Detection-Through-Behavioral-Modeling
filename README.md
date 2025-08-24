@@ -100,10 +100,12 @@ Go to:\
 <img width="1470" height="956" alt="Screenshot 2025-08-24 at 11 06 18 PM" src="https://github.com/user-attachments/assets/c7a33c13-5607-4571-bede-3562c61fa871" />
 <img width="1470" height="956" alt="Screenshot 2025-08-24 at 11 06 05 PM" src="https://github.com/user-attachments/assets/d7ebf221-201d-41a5-b7ab-c61808feeece" />
 
+------------------------------------------------------------------------
 
 📹 [Watch Demo Video]
 
 ![Image](https://github.com/user-attachments/assets/a743e70b-e05b-4928-8093-132fbc24fc9f)
+
 ![Image](https://github.com/user-attachments/assets/1aa044b8-7ee6-494b-8ccd-f1f5e22a9925)
 
 ------------------------------------------------------------------------
