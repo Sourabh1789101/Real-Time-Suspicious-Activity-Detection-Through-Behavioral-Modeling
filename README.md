@@ -96,9 +96,17 @@ Go to:\
 
 ### Accident Detection Example
 
-![UI Screenshot](screenshots/Screenshot-UI.png)
+<img width="1470" height="956" alt="Screenshot 2025-08-24 at 11 06 55 PM" src="https://github.com/user-attachments/assets/41c91d82-8560-4630-ad4f-5b37ad9193bf" />
+<img width="1470" height="956" alt="Screenshot 2025-08-24 at 11 06 18 PM" src="https://github.com/user-attachments/assets/c7a33c13-5607-4571-bede-3562c61fa871" />
+<img width="1470" height="956" alt="Screenshot 2025-08-24 at 11 06 05 PM" src="https://github.com/user-attachments/assets/d7ebf221-201d-41a5-b7ab-c61808feeece" />
 
-📹 [Watch Demo Video](./Accident%20detection%20demo.mp4)
+
+📹 [Watch Demo Video]
+
+
+
+https://github.com/user-attachments/assets/4ca0d5e2-e962-40f0-b91a-5dff3929d17b
+
 
 ------------------------------------------------------------------------
 
