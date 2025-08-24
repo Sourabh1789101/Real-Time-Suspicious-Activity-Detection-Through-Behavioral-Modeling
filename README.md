@@ -103,9 +103,7 @@ Go to:\
 
 📹 [Watch Demo Video]
 
-![output1-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/f8df9b2a-0316-442e-95a2-fc75086ba64e)
-
-![Accidentdetectiondemo-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/cf68d1ce-b054-429d-8a00-9de9e8779d55)
+https://github.com/user-attachments/assets/97ee8269-164a-440c-9b0d-f410fa3796d6
 
 ------------------------------------------------------------------------
 
